@@ -1,0 +1,8 @@
+1. Análisis:
+   Es la fase donde se estudian los requisitos del cliente y se define qué debe hacer el software.
+
+2. Diseño:
+   Aquí se estructura cómo va a funcionar el sistema, su arquitectura y su base de datos.
+
+3. Codificación:
+   Es la parte práctica donde se escribe el código del programa.
